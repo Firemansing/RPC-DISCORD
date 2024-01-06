@@ -26,3 +26,6 @@ __Ensuite, allez simplement dans "Informations générales" et copiez l'ID de l'
 ```
 python3 index.py --no-validation
 ```
+**Pour le start.bat, faites clic droit et modifier en mettant le chemin réel de votre fichier ```Index.py``` et enregistrez, vous aurez plus qu'à double cliquer dessus.**
+
+En cas de besoin contactez moi sur Discord : Firemansing
