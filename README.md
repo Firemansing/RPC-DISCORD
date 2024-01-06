@@ -3,7 +3,7 @@ Gérer un RPC (Rich Presence) sur Discord depuis un site web !
 
 ## Comment exécuter ?
 
-***__VOUS DEVEZ AVOIR PYTHON3 INSTALLÉ!__***
+***__VOUS DEVEZ AVOIR PYTHON3 INSTALLÉ!__*** https://www.python.org/downloads/
 
 Ensuite, installez les dépendances :
 ```
